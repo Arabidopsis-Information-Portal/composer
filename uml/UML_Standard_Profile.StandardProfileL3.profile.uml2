@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Profile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/1.0.0/UML" xmi:id="_16_8beta_62a020a_1256807755193_508228_378" name="StandardProfileL3" metamodelReference="_16_8beta_62a020a_1256807755239_960265_379">
+  <eAnnotations xmi:id="_w4oesYNlEeGX3Px2y-9hSw" source="attributes">
+    <details xmi:id="_w4oesoNlEeGX3Px2y-9hSw" key="version" value="0"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_w4oes4NlEeGX3Px2y-9hSw" source="ePackages">
+    <contents xmi:type="ecore:EPackage" xmi:id="_w4oetINlEeGX3Px2y-9hSw" name="StandardProfileL3_0" nsURI="http:///StandardProfileL3_0_wkVCgYNlEeGX3Px2y-9hSw.profile.uml2" nsPrefix="StandardProfileL3_0"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_xDLhuINlEeGX3Px2y-9hSw" source="MagicDraw">
+    <details xmi:id="_xDLhuYNlEeGX3Px2y-9hSw" key="md_id" value="_16_8beta_62a020a_1256807755193_508228_378"/>
+  </eAnnotations>
+  <packageImport xmi:id="_16_8beta_62a020a_1256807755239_960265_379">
+    <eAnnotations xmi:id="_xDLhuoNlEeGX3Px2y-9hSw" source="MagicDraw">
+      <details xmi:id="_xDLhu4NlEeGX3Px2y-9hSw" key="md_id" value="_16_8beta_62a020a_1256807755239_960265_379"/>
+    </eAnnotations>
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_METAMODELS/UML2.metamodel.uml2#_m8qbA686EdiEh75YJ_3n8g"/>
+  </packageImport>
+  <packageImport xmi:id="_EfRZoK86EdieaYgxtVWN8QprimitiveTypesStandardProfileL3">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_LIBRARIES/UML2PrimitiveTypes.library.uml2#_EfRZoK86EdieaYgxtVWN8Q"/>
+  </packageImport>
+  <packageImport xmi:id="_RjmyoK86EdieaYgxtVWN8QjavaPrimitiveTypesStandardProfileL3">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_LIBRARIES/JavaPrimitiveTypes.library.uml2#_RjmyoK86EdieaYgxtVWN8Q"/>
+  </packageImport>
+</uml:Profile>

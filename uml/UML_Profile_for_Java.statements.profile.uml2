@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Profile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/1.0.0/UML" xmi:id="_8ca0285_1086175413610_136197_1" name="statements" metamodelReference="_8ca0285_1086175413610_136197_1_packageImportcreatedOnLoad">
+  <eAnnotations xmi:id="_w41S5YNlEeGX3Px2y-9hSw" source="attributes">
+    <details xmi:id="_w41S5oNlEeGX3Px2y-9hSw" key="version" value="0"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_w41S54NlEeGX3Px2y-9hSw" source="ePackages">
+    <contents xmi:type="ecore:EPackage" xmi:id="_w41S6INlEeGX3Px2y-9hSw" name="statements_0" nsURI="http:///statements_0_wkVCgINlEeGX3Px2y-9hSw.profile.uml2" nsPrefix="statements_0"/>
+  </eAnnotations>
+  <packageImport xmi:id="_8ca0285_1086175413610_136197_1_packageImportcreatedOnLoad">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_METAMODELS/UML2.metamodel.uml2#_m8qbA686EdiEh75YJ_3n8g"/>
+  </packageImport>
+  <packageImport xmi:id="_EfRZoK86EdieaYgxtVWN8QprimitiveTypesstatements">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_LIBRARIES/UML2PrimitiveTypes.library.uml2#_EfRZoK86EdieaYgxtVWN8Q"/>
+  </packageImport>
+  <packageImport xmi:id="_RjmyoK86EdieaYgxtVWN8QjavaPrimitiveTypesstatements">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML2_LIBRARIES/JavaPrimitiveTypes.library.uml2#_RjmyoK86EdieaYgxtVWN8Q"/>
+  </packageImport>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461060_337151_78">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461060_479085_80" name="extension_for" visibility="private" association="_10_0EAPbeta2_be00301_1123760461060_337151_78" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_539976_87"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461070_824153_82" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461070_733021_81"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461060_479085_80"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461060_631737_79"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461461_484510_162">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461471_939545_164" name="extension_if" visibility="private" association="_10_0EAPbeta2_be00301_1123760461461_484510_162" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176428309_100605_90"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461471_321148_166" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461471_883353_165"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461471_939545_164"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461461_47845_163"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461160_686187_98">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461160_653895_100" name="extension_catch" visibility="private" association="_10_0EAPbeta2_be00301_1123760461160_686187_98" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_6253_84"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461170_146438_102" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461160_510135_101"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461160_653895_100"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461160_532964_99"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461290_20201_129">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461290_568998_131" name="extension_doWhile" visibility="private" association="_10_0EAPbeta2_be00301_1123760461290_20201_129" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_320707_89"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461321_222543_133" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461290_690758_132"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461290_568998_131"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461290_482050_130"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760460920_306843_63">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760460980_60518_65" name="extension_try" visibility="private" association="_10_0EAPbeta2_be00301_1123760460920_306843_63" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086175905798_312019_83"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760460990_627314_67" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760460990_252984_66"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760460980_60518_65"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760460920_203643_64"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760460880_458310_53">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760460880_927010_55" name="extension_while" visibility="private" association="_10_0EAPbeta2_be00301_1123760460880_458310_53" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_854873_88"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760460890_185042_57" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760460880_253497_56"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760460880_927010_55"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760460880_740349_54"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461571_761369_182">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461571_496719_184" name="extension_else" visibility="private" association="_10_0EAPbeta2_be00301_1123760461571_761369_182" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176428309_618243_91"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461571_58582_186" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461571_388873_185"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461571_496719_184"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461571_935060_183"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0_622020d_1128084540266_158876_7">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0_622020d_1128084540276_832303_9" name="extension_label" visibility="private" association="_10_0_622020d_1128084540266_158876_7" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_10_0_622020d_1128084421555_705811_1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0_622020d_1128084540276_51166_11" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0_622020d_1128084540276_299390_10"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0_622020d_1128084540276_832303_9"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0_622020d_1128084540266_619848_8"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461701_455532_213">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461711_475695_215" name="extension_switch" visibility="private" association="_10_0EAPbeta2_be00301_1123760461701_455532_213" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176428309_399656_92"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461711_575902_217" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461711_565682_216"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461711_475695_215"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461701_382717_214"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0_622020d_1128063174924_807971_7">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0_622020d_1128063174924_203943_9" name="extension_block" visibility="private" association="_10_0_622020d_1128063174924_807971_7" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_10_0_622020d_1128063139463_9222_1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0_622020d_1128063174924_294712_11" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0_622020d_1128063174924_850831_10"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0_622020d_1128063174924_203943_9"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0_622020d_1128063174924_162119_8"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461371_775346_146">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461381_811068_148" name="extension_finally" visibility="private" association="_10_0EAPbeta2_be00301_1123760461371_775346_146" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_844954_85"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461381_18387_150" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461381_41705_149"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461381_811068_148"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461371_545315_147"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461200_404899_108">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461210_447657_110" name="extension_synchronize" visibility="private" association="_10_0EAPbeta2_be00301_1123760461200_404899_108" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176369625_992561_86"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461210_416908_112" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461210_610253_111"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461210_447657_110"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461200_98102_109"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461180_827195_103">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461190_11676_105" name="extension_case" visibility="private" association="_10_0EAPbeta2_be00301_1123760461180_827195_103" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176428309_597933_93"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461190_275620_107" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461190_656415_106"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461190_11676_105"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461180_663974_104"/>
+  </ownedMember>
+  <ownedMember xmi:type="uml:Extension" xmi:id="_10_0EAPbeta2_be00301_1123760461691_7242_208">
+    <ownedEnd xmi:type="uml:ExtensionEnd" xmi:id="_10_0EAPbeta2_be00301_1123760461691_337378_210" name="extension_default" visibility="private" association="_10_0EAPbeta2_be00301_1123760461691_7242_208" aggregation="composite">
+      <type xmi:type="uml:Stereotype" href="UML_Profile_for_Java.profile.uml2#_8ca0285_1086176880830_444919_96"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_10_0EAPbeta2_be00301_1123760461691_44151_212" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_10_0EAPbeta2_be00301_1123760461691_671332_211"/>
+    </ownedEnd>
+    <memberEnd xmi:type="uml:ExtensionEnd" href="#_10_0EAPbeta2_be00301_1123760461691_337378_210"/>
+    <memberEnd href="UML_Profile_for_Java.profile.uml2#_10_0EAPbeta2_be00301_1123760461691_243181_209"/>
+  </ownedMember>
+</uml:Profile>
